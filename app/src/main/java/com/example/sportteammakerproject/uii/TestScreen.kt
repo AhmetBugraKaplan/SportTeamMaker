@@ -14,6 +14,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import com.example.sportteammakerproject.data.model.Match
 import com.example.sportteammakerproject.data.repository.FirestoreRepo
+import kotlinx.coroutines.*
+import kotlinx.coroutines.flow.catch
+import kotlinx.coroutines.flow.first
+import android.util.Log
+import com.example.sportteammakerproject.data.model.Player
+import com.example.sportteammakerproject.data.repository.FirestoreRepo
 
 @Composable
 fun TestScreen() {
@@ -38,5 +44,7 @@ fun TestScreen() {
             }
         }
     }
+
+
 
 }
