@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338065990420",
+    "project_id": "sportteammakerproject",
+    "storage_bucket": "sportteammakerproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338065990420:android:c218bad11e7a0550659801",
+        "android_client_info": {
+          "package_name": "com.example.sportteammakerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRf9cBRtrX9fYOBYmsTwYOuDaKZN42iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
